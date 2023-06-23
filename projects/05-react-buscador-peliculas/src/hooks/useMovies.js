@@ -38,7 +38,6 @@ export function useMovies({search, sort}){
   //     } catch(e){
   //       setError(e.message)
   //     } finally{
-  //       //esto se ejecuta tanto en el try como en el catch
   //       setLoading(false)
   //     }
   //   }
